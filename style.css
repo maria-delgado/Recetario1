@@ -2,7 +2,7 @@
 body{
     background: url(fondo_nombre.jpg);
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
     background-attachment: fixed;
 }
 
