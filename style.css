@@ -1,6 +1,8 @@
-boby{
-       display: block;
-    margin: 8px;
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(fondo_nombre)
 }
 .espanol{
 text-decoration:none;
