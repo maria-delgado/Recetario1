@@ -1,6 +1,7 @@
 .caja {
     border-radius:  70px 70px 70px 70px;
     background: #FEF9E7;
+    background-size: cover;
     color: #545454;
     line-height: 1.5;
     margin: 0 auto;
