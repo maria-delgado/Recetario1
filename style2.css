@@ -1,3 +1,9 @@
+.caja1{
+background-image= url("fon_dn.jpg");
+background-repeat: no-repeat; 
+background-size: conver;
+background-attachment: fixed; "
+}
 .caja {
     border-radius:  70px 70px 70px 70px;
     background: #FEF9E7;
