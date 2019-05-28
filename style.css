@@ -1,7 +1,7 @@
 
 body{
     background-repeat: round;
-    background-size: cover;
+    background-size: 100%;
     background-attachment: fixed;
     background: url(nombre.jpg);
 }
